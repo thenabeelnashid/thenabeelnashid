@@ -102,12 +102,6 @@ Open to     Select freelance & collaboration
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thenabeelnashid&theme=github&bg_color=FAFAF9&title_color=1C1917&text_color=57534E&icon_color=FFC101&border_color=E7E5E4&hide_border=true" alt="Nabeel Nashid's GitHub profile summary" width="100%">
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=thenabeelnashid&hide_border=true&background=0C0A09&ring=FFC101&fire=FFC101&currStreakNum=FAFAF9&sideNums=FAFAF9&currStreakLabel=FFC101&sideLabels=A8A29E&dates=A8A29E&stroke=292524">
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=thenabeelnashid&hide_border=true&background=FAFAF9&ring=FFC101&fire=FFC101&currStreakNum=1C1917&sideNums=1C1917&currStreakLabel=B7791F&sideLabels=57534E&dates=78716C&stroke=E7E5E4">
-  <img src="https://streak-stats.demolab.com?user=thenabeelnashid&hide_border=true&background=FAFAF9&ring=FFC101&fire=FFC101&currStreakNum=1C1917&sideNums=1C1917&currStreakLabel=B7791F&sideLabels=57534E&dates=78716C&stroke=E7E5E4" alt="Nabeel Nashid's contribution streak" width="100%">
-</picture>
-
 ---
 
 <div align="center">
