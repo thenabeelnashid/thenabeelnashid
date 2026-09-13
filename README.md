@@ -80,11 +80,7 @@ Nonprofit organisation platform built to communicate its mission, share impact a
 
 ## Latest writing
 
-<!-- BLOG-POST-LIST:START -->
-- [Next.js + Supabase: The Complete Full-Stack Setup Guide](https://www.nabeelnashid.com/read/nextjs-supabase-full-stack-guide) — `2026-09-10`
-- [Supabase Row Level Security: A Practical Guide to RLS Policies](https://www.nabeelnashid.com/read/supabase-row-level-security-guide) — `2026-09-09`
-- [How to Automate Social Media Posting with Python (Self-Hosted)](https://www.nabeelnashid.com/read/automate-social-media-posting-python) — `2026-09-08`
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Next.js + Supabase: The Complete Full-Stack Setup Guide](https://nabeelnashid.com/read/nextjs-supabase-full-stack-guide) — `2026-09-10`- [Supabase Row Level Security: A Practical Guide to RLS Policies](https://nabeelnashid.com/read/supabase-row-level-security-guide) — `2026-09-09`- [How to Automate Social Media Posting with Python &lpar;Self-Hosted&rpar;](https://nabeelnashid.com/read/automate-social-media-posting-python) — `2026-09-08`- [Next.js SEO Checklist for 2026: Metadata, Sitemaps and Structured Data](https://nabeelnashid.com/read/nextjs-seo-checklist) — `2026-09-07`- [Telegram as Your Free, Secure Webhook Layer: Control a Private Server from Anywhere](https://nabeelnashid.com/read/telegram-as-your-free-secure-webhook-layer-control-a-private-server-from-anywhere) — `2026-08-12`<!-- BLOG-POST-LIST:END -->
 
 ---
 
