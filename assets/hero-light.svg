@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="320" viewBox="0 0 1000 320" fill="none" role="img" aria-label="Nabeel Nashid — Designer and Developer">
+  <defs>
+    <linearGradient id="nhName" x1="64" y1="120" x2="520" y2="200" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1C1917"/>
+      <stop offset="1" stop-color="#57534E"/>
+    </linearGradient>
+    <radialGradient id="nhGlow" cx="0.82" cy="0.05" r="0.95">
+      <stop stop-color="#FFC101" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#FFC101" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="nhGrid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" stroke="#E7E5E4" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1000" height="320" rx="22" fill="#FAFAF9"/>
+  <rect width="1000" height="320" rx="22" fill="url(#nhGrid)"/>
+  <rect width="1000" height="320" rx="22" fill="url(#nhGlow)"/>
+  <rect x="1" y="1" width="998" height="318" rx="21" stroke="#E7E5E4" stroke-width="2"/>
+
+  <g font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">
+    <rect x="64" y="50" width="270" height="36" rx="18" fill="#FFFFFF" stroke="#E7E5E4"/>
+    <circle cx="86" cy="68" r="5" fill="#FFC101"/>
+    <text x="102" y="73" font-size="15" font-weight="600" fill="#57534E">Available for select projects</text>
+
+    <text x="62" y="176" font-size="62" font-weight="800" letter-spacing="-1.2" fill="url(#nhName)">Nabeel Nashid</text>
+
+    <text x="64" y="226" font-size="30" font-weight="700" fill="#1C1917">Designer <tspan fill="#B7791F">&amp;</tspan> Developer</text>
+
+    <text x="64" y="266" font-size="17" font-weight="500" fill="#78716C">Websites, web apps and automated systems that replace manual work.</text>
+  </g>
+
+  <g>
+    <rect x="788" y="80" width="160" height="160" rx="36" fill="#1C1917"/>
+    <rect x="789" y="81" width="158" height="158" rx="35" stroke="#292524" stroke-width="2"/>
+    <text x="868" y="190" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="78" font-weight="800" letter-spacing="-3" fill="#FFC101">NN</text>
+    <rect x="828" y="212" width="80" height="6" rx="3" fill="#FFC101" opacity="0.9"/>
+  </g>
+</svg>
