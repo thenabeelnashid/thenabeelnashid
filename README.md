@@ -33,22 +33,11 @@ Open to     Select freelance & collaboration
 
 ## What I do
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>Design</h3>
-      <p>Interfaces with a clear focal point and a single primary action. Typography, spacing and color treated as a system — not decoration.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Develop</h3>
-      <p>Production-ready web apps on <strong>Next.js</strong> and <strong>Supabase</strong> — typed, accessible, fast, and built to scale from day one.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Automate</h3>
-      <p>Python pipelines and scheduled jobs that replace manual work and keep content, data and deployments moving without intervention.</p>
-    </td>
-  </tr>
-</table>
+**Design** — Interfaces with a clear focal point and a single primary action. Typography, spacing and color treated as a system, not decoration.
+
+**Develop** — Production-ready web apps on **Next.js** and **Supabase** — typed, accessible, fast, and built to scale from day one.
+
+**Automate** — Python pipelines and scheduled jobs that replace manual work and keep content, data and deployments moving without intervention.
 
 ---
 
@@ -75,12 +64,17 @@ Open to     Select freelance & collaboration
 
 ## Selected work
 
-| Project | What it is | Built with | |
-| --- | --- | --- | :-: |
-| **Fluidmotion** | Marketing website for a Qatar-based company — clarity-first messaging with a modern, professional identity. | Web · Next.js · Design | [fluidmotion.qa](https://www.fluidmotion.qa) |
-| **HOCS** | Fully automated, self-hosted content infrastructure that detects trends and publishes across social platforms. | Python · Automation · AI | [hocs.site](https://hocs.site) |
-| **AidsonShelf** | Online library platform for discovering, organising and borrowing books as a fast, modern reading experience. | Web · Platform | [aidsonshelf.com](https://aidsonshelf.com) |
-| **The Roar** | Nonprofit organisation platform built to communicate its mission, share impact and make it easy to get involved. | Next.js · Web | [theroar.ngo](https://theroar.ngo) |
+**[Fluidmotion](https://www.fluidmotion.qa)** — *Web · Next.js · Design*
+Marketing website for a Qatar-based company, built for clarity-first messaging and a modern, professional identity.
+
+**[HOCS](https://hocs.site)** — *Python · Automation · AI*
+Fully automated, self-hosted content infrastructure that detects trends and publishes across social platforms.
+
+**[AidsonShelf](https://aidsonshelf.com)** — *Web · Platform*
+Online library platform for discovering, organising and borrowing books as a fast, modern reading experience.
+
+**[The Roar](https://theroar.ngo)** — *Next.js · Web*
+Nonprofit organisation platform built to communicate its mission, share impact and make it easy to get involved.
 
 ---
 
